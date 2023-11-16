@@ -1,0 +1,38 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #000000d6;
+  color: aliceblue;
+  min-height: 500px;
+}
+
+.project {
+  background-color: #000000d6;
+  color: black;
+}
+
+section {
+  padding-bottom: 2rem;
+}
+
+.button {
+  height: 20px;
+  width: 50px;
+}
+
+.kontak {
+  background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+    center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
+
+.cards-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin: 0.5em;
+}
